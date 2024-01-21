@@ -1,0 +1,11 @@
+﻿  Copilot.cpp
+C:\Users\ninob\source\repos\Copilot\Copilot\Copilot.cpp(8,9): warning C4311: "Typumwandlung": Zeigerverkürzung von "HINSTANCE" zu "int"
+C:\Users\ninob\source\repos\Copilot\Copilot\Copilot.cpp(8,9): warning C4302: "Typumwandlung": Verkürzung von "HINSTANCE" in "int"
+C:\Users\ninob\source\repos\Copilot\Copilot\Copilot.cpp(9,86): warning C4311: "Typumwandlung": Zeigerverkürzung von "HINSTANCE" zu "int"
+C:\Users\ninob\source\repos\Copilot\Copilot\Copilot.cpp(9,86): warning C4302: "Typumwandlung": Verkürzung von "HINSTANCE" in "int"
+  Code wird generiert.
+  1 of 96 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Codegenerierung ist abgeschlossen.
+  Copilot.vcxproj -> C:\Users\ninob\source\repos\Copilot\x64\Release\Copilot.exe
