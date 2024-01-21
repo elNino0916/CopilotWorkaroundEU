@@ -1,2 +1,2 @@
 # CopilotWorkaroundEU
-Puts Copilot in your Taskbar using the "microsoft-edge://" bypass
+This project is only a proof-of-concept. 
