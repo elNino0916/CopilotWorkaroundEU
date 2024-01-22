@@ -1,9 +1,8 @@
 # CopilotWorkaroundEU
-# You have to use the latest Windows 11 version.
-# UPDATE: Seems like its fixed in build 23619. I will not update this app anymore. Consider this project finished.
+# UPDATE: Seems like its fixed in insider build 23619. I will not update this app anymore. Consider this project finished. Use the website https://copilot.microsoft.com/ instead (No Windows OS integration)
 This project, CopilotWorkaroundEU, is a proof-of-concept and is provided "as is" without warranty of any kind, either expressed or implied. The purpose of this project is to demonstrate that you can use Copilot in the EU using a bypass and is not intended for use in a production environment. No support will be provided.
 
-This project is in no way affiliated with, authorized, maintained, sponsored, or endorsed by Microsoft Corporation or any of its affiliates or subsidiaries. "Microsoft", the copilot icon and Copilot are registered trademarks of Microsoft Corporation.
+This project is in no way affiliated with, authorized, maintained, sponsored, or endorsed by Microsoft Corporation or any of its affiliates or subsidiaries. "Microsoft", the copilot icon, "Windows" and "Copilot" are registered trademarks of Microsoft Corporation.
 
 As a proof-of-concept, this project may exhibit unpredictable behavior, and any use of the project is at the user's own risk. The developer(s) of CopilotWorkaroundEU are not liable for any damages or losses caused directly or indirectly by the use of this project.
 
