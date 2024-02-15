@@ -1,5 +1,16 @@
 # CopilotWorkaroundEU
-# UPDATE: Seems like its fixed in insider build 23619. I will not update this app anymore. Consider this project finished.
+### UPDATE: Looks like it is fixed in build 23619+. As of today, it works on build 22631.3007 for me. However, I will not update this app anymore, as I cannot fix the microsoft-edge:// link. Consider this project finished. 
+
+| Windows Build        | Works on my PC| 
+| -------------------- |:-----:|
+| 22631.3007      | ✅ |
+| 23619.1000 (+?)      | :x:      |
+
+^ Only tested builds by me, may not work on your windows install. ^
+
+
+
+---------------------------------------
 This project, CopilotWorkaroundEU, is a proof-of-concept and is provided "as is" without warranty of any kind, either expressed or implied. The purpose of this project is to demonstrate that you can use Copilot in the EU using a bypass and is not intended for use in a production environment. No support will be provided.
 
 This project is in no way affiliated with, authorized, maintained, sponsored, or endorsed by Microsoft Corporation or any of its affiliates or subsidiaries. "Microsoft", the copilot icon, "Windows" and "Copilot" are registered trademarks of Microsoft Corporation.
